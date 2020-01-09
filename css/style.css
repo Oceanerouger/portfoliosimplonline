@@ -1,0 +1,22 @@
+.h1{
+font-size:60px;    
+}
+.h2{
+margin-bottom: 3px;
+}
+.h3{
+font-size: 60px;
+}
+.texte{
+font-size: 30px;
+}
+.ligne{
+background-color:#8796ad;
+height: 5px;
+margin-bottom: 3%;
+width: auto;
+}
+#article{
+margin-bottom: 4%;
+border-left: 2%;
+}
